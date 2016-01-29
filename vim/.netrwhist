@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/sys/devices/platform/serial8250'
+let g:netrw_dirhist_2='/home/woodall/work/a32ul/kernel/arch/arm/boot/dts'
+let g:netrw_dirhist_3='/home/woodall/work/a32ul/kernel/drivers/gpio'
+let g:netrw_dirhist_4='/home/woodall/work/a32ul/bootable/offmode_charging'
+let g:netrw_dirhist_5='/home/woodall/work/a32ul/kernel/include/config'
+let g:netrw_dirhist_6='/home/woodall/work/a32ul'
+let g:netrw_dirhist_7='/home/woodall/Documents/temp'
