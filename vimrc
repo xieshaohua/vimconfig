@@ -1,5 +1,5 @@
 """""""""""""""""""""""""""""""""
-" peter.chen
+" shaohua.xie
 """""""""""""""""""""""""""""""""
 " => General Options "{{{ 
 set guifont=DejaVu\ Sans\ YuanTi\ Mono\ 10
